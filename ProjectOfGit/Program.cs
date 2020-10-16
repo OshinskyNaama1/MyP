@@ -9,6 +9,7 @@ namespace ProjectOfGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("hiiiiiiiiiii!!!!!!!!!");
             Console.WriteLine("lll");
+            Console.WriteLine("yea!!!!!!!!!!!!!!!!!!!!!!!!");
         }
     }
 }
